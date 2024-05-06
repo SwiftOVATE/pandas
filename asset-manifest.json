@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pandas/static/css/main.234ac1d8.css",
+    "main.js": "/pandas/static/js/main.216c3ae5.js",
+    "index.html": "/pandas/index.html",
+    "main.234ac1d8.css.map": "/pandas/static/css/main.234ac1d8.css.map",
+    "main.216c3ae5.js.map": "/pandas/static/js/main.216c3ae5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.234ac1d8.css",
+    "static/js/main.216c3ae5.js"
+  ]
+}
